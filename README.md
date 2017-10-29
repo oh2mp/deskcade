@@ -11,9 +11,7 @@ I used AdvanceMAME in my project. It can be downloaded from [advancemame.it](htt
 I also used Press Start 2P font for Advance menu. It looks like old JAMMA game font and can be downloaded
 freely from [1001freefonts.com](https://www.1001freefonts.com/press_start_2p.font)
 
-# NOTE: This is not suitable for beginners. If you want to do similar, you should have knowledge
-how to make a buildroot image and how to configure Linux. For beginners it's better just use some ready made
-game emulator distribution like [RetroPie](https://retropie.org.uk/) or [PiPlay](https://piplay.org/)
+## NOTE: This is not suitable for beginners. If you want to do similar, you should have knowledge how to make a buildroot image and how to configure Linux. For beginners it's better just use some ready made game emulator distribution like [RetroPie](https://retropie.org.uk/) or [PiPlay](https://piplay.org/)
 
 ## Directories:
 
