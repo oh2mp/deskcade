@@ -1,0 +1,11 @@
+#!/bin/sh
+
+clear
+# hide cursor and set fg and bg to black
+printf "\033[?25l\033[30m;\033[40m" >/dev/tty1
+
+killall -HUP advmenu
+
+cat /home/pi/.advance/util/80s_goodbye.raw >/dev/fb0
+sync
+sudo halt
