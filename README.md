@@ -15,14 +15,14 @@ freely from [1001freefonts.com](https://www.1001freefonts.com/press_start_2p.fon
 ## Directories:
 
 ### buildroot
-  - Contains things to create buildroot image and other OS related files. 
+  - Contains OS related things eg. [buildroot](https://buildroot.org/) config etc.
 
 ### script
   - Contains several utilities for setup and maintenance.
 
 ### config 
-  - Contains my advmame config files. These are of course just for information and might not be suitable for your project.
+  - Contains my advmame config files from /home/pi/.advance These are of course just for information and might not be suitable for your project.
 
 ### util
-  - Everything to put under .advance/util directory. The directory contains scripts that are run by fake emulator "util".
+  - Everything to put under /home/pi/.advance/util directory. The directory contains scripts that are run by fake emulator "util".
 
