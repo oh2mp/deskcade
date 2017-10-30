@@ -1,22 +1,20 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-# NOTE: All files are not pushed here yet!
-
 This repository contains config files and some scripts for my "deskcade" project that is a 
-Raspberry Pi based tabletop MAME arcade. If you plan to build a deskcade, you can see how I did it.
+Raspberry Pi based tabletop MAME arcade. If you plan to build a deskcade, you can see here how I did it.
 These config files might not be suitable for your project without modification because of differences 
 of hardware eg. display and controllers.
 
-I used AdvanceMAME in my project. It can be downloaded from [advancemame.it](http://www.advancemame.it/download)
+I used [buildroot](https://buildroot.org/) and AdvanceMAME in my project. AdvanceMAME can be downloaded from [advancemame.it](http://www.advancemame.it/download)
 I also used Press Start 2P font for Advance menu. It looks like old JAMMA game font and can be downloaded
 freely from [1001freefonts.com](https://www.1001freefonts.com/press_start_2p.font)
 
-**NOTE: This is not suitable for beginners. If you want to make similar project, you should have knowledge how to make a buildroot image and how to configure Linux. For beginners it's better just use some ready made game emulator distribution like [RetroPie](https://retropie.org.uk/) or [PiPlay](https://piplay.org/)**
+**NOTE: This is not suitable for beginners. If you want to make similar project, you should have knowledge how to make a buildroot image and how to configure Linux. For beginners it's better just use some ready made game emulator distribution like [RetroPie](https://retropie.org.uk/) or [PiPlay](https://piplay.org/)**. The reason for using buildroot instead of Raspbian was to get very fast booting OS.
 
 ## Directories:
 
 ### buildroot
-  - Contains OS related things eg. [buildroot](https://buildroot.org/) config etc.
+  - Contains OS related things eg. buildroot config etc.
 
 ### script
   - Contains several utilities for setup and maintenance.
