@@ -1,5 +1,5 @@
 #!/bin/sh
 
 export TERM=linux
-cd /home/pi/.advance/util
+cd /home/pi/.advance/util/var
 ./volume.pl
