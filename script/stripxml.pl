@@ -4,8 +4,6 @@
 # This ugly script strips extraneous data from advmame.xml and leaves only data for
 # roms that you have. It speeds advmenu startup a lot if you don't have many games.
 # 
-# OH2MP 2017
-# 
 
 use strict;
 
