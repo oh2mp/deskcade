@@ -1,0 +1,12 @@
+#!/bin/sh
+
+case "$1" in
+  start)
+        fbset -depth 16
+        clear
+        cat /root/mamelogo.raw >/dev/fb0
+        ;;
+  *)
+        ;;
+esac
+
