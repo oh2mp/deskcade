@@ -27,5 +27,3 @@ freely from [1001freefonts.com](https://www.1001freefonts.com/press_start_2p.fon
 ### util
   - Everything to put under */home/pi/.advance/util* directory. The directory contains scripts that are run by fake emulator **_"util"_**.
 
-### photos
-  - Some photos of my deskcade for the wiki.
