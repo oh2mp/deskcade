@@ -5,7 +5,8 @@ Raspberry Pi based tabletop MAME arcade. If you plan to build a deskcade, you ca
 These config files might not be suitable for your project without modification because of differences 
 of hardware eg. display and controllers.
 
-Some hardware documentation and other info are available in the [Wiki](https://github.com/oh2mp/deskcade/wiki).
+### Hardware documentation and other info are available in the [Wiki](https://github.com/oh2mp/deskcade/wiki).
+You should start there.
 
 I used [Buildroot](https://buildroot.org/) and AdvanceMAME in my project. AdvanceMAME can be downloaded from [advancemame.it](http://www.advancemame.it/download)
 I also used Press Start 2P font for Advance menu. It looks like old JAMMA game font and can be downloaded
